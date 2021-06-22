@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ph.video_jitse",
+    "sha256_cert_fingerprints":
+    ["E1:9E:00:71:57:53:5C:D7:3E:7B:3D:04:FF:6E:F4:99:34:22:D8:22:21:BD:BD:51:28:45:B3:B9:5C:99:26:52"]
+  }
+}]
